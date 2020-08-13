@@ -98,7 +98,7 @@ main {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: hsl(203, 100%, 37%);
+    background-color: hsl(200, 61%, 28%);
     color: hsl(0, 0%, 100%);
 }
 
@@ -135,7 +135,7 @@ aside {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: hsl(200, 61%, 28%);
 }
 
 /* changed the parent class selector to match the correponding html */
