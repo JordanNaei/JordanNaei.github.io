@@ -9,7 +9,7 @@ Our Dev team refactor the existing Website and optimized the html and css code t
     2-	Optimized and consolidated the css code, dropped the css file from 200 line of codes to 137 line of code to serve the same purpose.
     3-	Ensure that the html and css style guide criteria is met.
     4-	Introduced the ‘alt’ attribute and other tags, which is noted within the html and css files, to enhance visibility, accessibility, performance and search engine optimization.
-5-	Generated report to the before and after website code base to exhibit the benefits of our enhancement in the following category:
+    5-	Generated report to the before and after website code base to exhibit the benefits of our enhancement in the following category:
     . Performance.
     . Best practices.
     . Accessibility.
