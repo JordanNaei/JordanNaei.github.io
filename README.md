@@ -30,7 +30,7 @@ GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements (pass)
 WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning (paas)
+THEN I find that the elements follow a logical structure independent of styling and positioning (pass)
 WHEN I view the image elements
 THEN I find accessible alt attributes (pass)
 WHEN I view the heading attributes
